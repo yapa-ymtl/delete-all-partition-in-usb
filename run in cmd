@@ -1,0 +1,8 @@
+1)cmd->diskpart
+2)list disk 
+3)select disk #  //replace # with disk number
+4)list partition 
+5)select partition #
+6)delete partition
+if there any partition repeat 5 and 6
+7)creat partition primary
